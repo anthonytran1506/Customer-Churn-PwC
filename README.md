@@ -120,7 +120,7 @@ python churn_model.py
 ---
 
 ## 👋 Contact
-For questions or feedback, please reach out to [Nguyen Khanh Toan (Andrew) Tran](mailto:toantran2005.work@gmail.com).
+For questions or feedback, please reach out to toantran2005.work@gmail.com.
 
 ---
 

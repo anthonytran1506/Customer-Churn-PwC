@@ -22,7 +22,7 @@ This project focuses on building and evaluating machine learning models to predi
 
 ## 📊 Exploratory Data Analysis (EDA)
 - Identified key churn indicators like tenure, payment method, and contract type.
-- Visualized relationships between features and churn to uncover trends.
+- Visualised relationships between features and churn to uncover trends.
 
 ---
 

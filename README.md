@@ -6,7 +6,7 @@ This project focuses on building and evaluating machine learning models to predi
 
 ## 📊 Project Overview
 - **Business Problem:** High customer churn rate affecting profitability.
-- **Objective:** Analyze churn patterns, build predictive models, and recommend retention strategies.
+- **Objective:** Analyse churn patterns, build predictive models, and recommend retention strategies.
 - **Dataset:** Telecom customer data, including demographics, service usage, billing, and technical support history.
 
 ---
@@ -14,9 +14,9 @@ This project focuses on building and evaluating machine learning models to predi
 ## 🔄 Data Processing
 - **Data Cleaning:** Handled missing values, inconsistent data types, and irrelevant features.
 - **Feature Engineering:**
-  - Created features like `Support_Ticket_Ratio`, `Month_Used`, and `tenure_group`.
-  - Categorized contract types and payment methods.
-- **Encoding & Scaling:** Applied necessary transformations for model compatibility.
+  - Created feature `Support_Ticket_Ratio` based on numTechTickets and numAdminTickets.
+  - Categorised contract types and payment methods.
+- **Encoding & Scaling:** Applied necessary standardised transformations for model compatibility.
 
 ---
 
@@ -95,7 +95,7 @@ python churn_model.py
 ---
 
 ## 📧 Contact
-For questions or feedback, feel free to reach out to [Your Name](mailto:your.email@example.com).
+For questions or feedback, feel free to reach out to toantran2005.work@gmail.com.
 
 ---
 

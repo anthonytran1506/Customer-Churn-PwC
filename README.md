@@ -1,6 +1,6 @@
 # Telecom Customer Churn Prediction
 
-This project, conducted by PwC’s Data & Analytics Consulting Division, focuses on identifying and mitigating customer churn for a leading telecom company. The analysis involves exploratory data analysis (EDA) and developing machine learning models to predict churn, offering data-driven strategies for improving retention and profitability.
+This project, based on PwC’s Data & Analytics Consulting Division, focuses on identifying and mitigating customer churn for a leading telecom company. The analysis involves exploratory data analysis (EDA) and developing machine learning models to predict churn, offering data-driven strategies for improving retention and profitability.
 
 ---
 

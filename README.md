@@ -100,23 +100,6 @@ Figure 9. Tuned Random Forest - Confusion Matrix
 - Use the **churn prediction model** to identify high-risk customers.
 - Offer **personalised discounts** and upgrades.
 - Conduct **regular check-ins** with customers on month-to-month contracts or those with frequent technical issues.
-
----
-
-## ⚙️ Installation & Usage
-1. Clone this repository:
-```bash
-git clone https://github.com/yourusername/telecom-churn-prediction.git
-```
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-3. Run the model:
-```bash
-python churn_model.py
-```
-
 ---
 
 ## 👋 Contact
